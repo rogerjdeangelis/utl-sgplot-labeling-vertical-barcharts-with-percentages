@@ -2,6 +2,9 @@
 Sgplot labeling vertical barchat withe the percent
     Sgplot labeling vertical barchats with percentages                                                      
                                                                                                             
+    output graph                                                                                                                                                      
+    https://tinyurl.com/yjj8t3zl     
+    
     github                                                                                                  
     https://tinyurl.com/yguapyle                                                                            
     https://github.com/rogerjdeangelis/utl-sgplot-labeling-vertical-barcharts-with-percentages              
